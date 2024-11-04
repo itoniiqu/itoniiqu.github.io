@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itoniiqu.github.io/UxV/sitemap_index.txt
+Sitemap: https://itoniiqu.github.io/aWY/sitemap_index.txt
+Sitemap: https://itoniiqu.github.io/fOE/sitemap_index.txt
+Sitemap: https://itoniiqu.github.io/qCf/sitemap_index.txt
